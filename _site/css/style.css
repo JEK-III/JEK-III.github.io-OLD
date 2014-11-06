@@ -421,7 +421,7 @@
 		ul.icons li {
 			display: inline-block;
 			line-height: 1em;
-			padding-left: 0.5em;
+			padding-left: 0.2em;
 		}
 
 			ul.icons li:first-child {
@@ -928,7 +928,7 @@
 	#footer {
 		background: #e8eef4;
 		color: #7c8081;
-		padding: 5em 5em 10em 5em;
+		padding: 5em 5em 5em 5em;
 		text-align: center;
 	}
 
@@ -945,7 +945,6 @@
 				display: inline-block;
 				margin-left: 1em;
 				padding-left: 1em;
-				border-left: dotted 1px;
 			}
 
 				#footer .copyright li:first-child {
