@@ -481,19 +481,16 @@
 
 	table {
 		width: 100%;
-		border: none;
 	}
 
 		table.default {
 			width: 100%;
 		}
 
-		/*
 			table.default tbody tr {
 				border-bottom: solid 1px rgba(124, 128, 129, 0.2);
 			}
-		*/
-		
+
 			table.default td {
 				padding: 0.5em 1em 0.5em 1em;
 			}
